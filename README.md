@@ -48,14 +48,20 @@ Our project Online Doctor Appointment system includes registration of User, stor
 
 # Process :
 
-Database Before Process Begins .
+Database Before Process Begins :
+
+
 ![_00_Before Any Operation ](https://user-images.githubusercontent.com/108928939/192263596-583567a8-e533-4c47-824a-2026f63e97e5.png)
 
- Step-1 : First Run The Code . User Interface Is Look Like This .
+
+ Step-1 : First Run The Code . User Interface Is Look Like This :
+ 
  
 ![_01_Interface](https://user-images.githubusercontent.com/108928939/192263736-53a761bd-1d36-4f16-8a0d-c7b2934dba24.png)
 
- Step-2 : Select Any One From The Given Options . Users Point Of View I Press  So Let Say We Select 1  .
+
+ Step-2 : Select Any One From The Given Options . Users Point Of View I Press  So Let Say We Select 1 :
+ 
 
 ![_02_1_Book Appointment With Doctor](https://user-images.githubusercontent.com/108928939/192264131-4d56c9fb-430b-4cb1-ac66-de949ce5be9b.png)
 
@@ -76,7 +82,8 @@ Database is Updated Successfully After Entering Details .
  
 ![_03_Get Your Appointment Details](https://user-images.githubusercontent.com/108928939/192265467-4ab2ae31-c600-46ec-8f2b-d81f2afea500.png)
 
- Step-4 : Now If I Want To Know More About The Doctors Which Is Available , So I Click 3 .
+
+ Step-4 : Now If I Want To Know More About The Doctors Which Is Available , So I Click 3 :
  
  
  ![_04_1_Get Details OF All Available Doctors](https://user-images.githubusercontent.com/108928939/192265928-e9aea918-ad25-4451-a952-59da592ab850.png)
@@ -89,12 +96,14 @@ Database is Updated Successfully After Entering Details .
 
 
  Step-5 : If Due To Some Reason , I Want TO Cancelled My Appointment , Then From Users Point Of View I Click On 2 .
- 
+
+
  ![_05_1_Cancel Your Appointment](https://user-images.githubusercontent.com/108928939/192266216-fa749e06-af9f-491a-98db-ff984f3e16cd.png)
 
 ![_05_2_ Database Updated After Cancel Your Appointment](https://user-images.githubusercontent.com/108928939/192266239-73d8091a-8e38-4c3d-a104-5abc63066da2.png)
 
 
-Srep-5 : Now All The Task Is Done So For Exit The App , I Click 5 .
+Step-6 : Now All The Task Is Done So For Exit The App , I Click 5 .
+
 
 ![_06_Exit Our Application](https://user-images.githubusercontent.com/108928939/192266384-59782017-490d-4c55-ac43-11259168a2ba.png)
