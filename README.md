@@ -6,8 +6,11 @@ Our project Online Doctor Appointment system includes registration of patients, 
 # Skills Use :
 
 -Core Java 
+
 -JDBC
+
 -MySql
+
 
 # User Interface Options : 
 
@@ -16,10 +19,15 @@ Our project Online Doctor Appointment system includes registration of patients, 
  ---   |--> MAIN MENU <--|   ---
     
 •    PRESS 1 TO BOOK APPOINTMENT WITH DOCTOR
+
 •    PRESS 2 TO CANCELLED APPOINTMENT WHICH IS SCHEDULED WITH DOCTOR
+
 •    PRESS 3 TO GET DETAILS ABOUT ALL EXPERTS DOCTOR
+
 •    PRESS 4 TO GET YOUR APPOINTMENT DETAILS
+
 •    PRESS 5 TO EXIT APP
+
     
 # Advantages of the System
 
