@@ -55,6 +55,7 @@ Before Run This Project  , You Need To Do Some Modifications In This Code Before
 1st Change : First of all Create a Database name as "Kratin_Project" in your MySql Command Line Client . If You want to give any different name then that also possible but for that do some changes in Url and put your database name in the url where Kratin_Project is present .
 
 In Url , 
+
        String url= "jdbc:mysql://localhost:3306/Kratin_Project?autoReconnect=true&useSSL=false";
                                                 --------------   
                                                      |
@@ -64,7 +65,9 @@ In Url ,
        
        
  2nd Change : You Need To Change given Username in code To Your MySql Username 
-   
+  
+  In Username ,
+  
          String username= "root";
                           -------
                               |
@@ -74,6 +77,8 @@ In Url ,
                            
                            
  3rd Change : You Need To Change given Password in coe To Your MySql Password
+ 
+ In Password ,
  
         String password= "Shivam@07122000";
                           ---------------
