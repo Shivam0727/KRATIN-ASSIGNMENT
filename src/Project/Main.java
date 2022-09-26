@@ -13,8 +13,8 @@ public class Main
 	public static void main(String[] args) throws NumberFormatException, IOException 
 	{
 		System.out.println("");
-		System.out.println("  |************************************************* WELCOME TO OA-SWD (ONLINE APPOINTMENT SCHEDULED WITH DOCTOR) APP *************************************************|");
-		System.out.println("  						------------------------------------------------------------------------------ ");
+		System.out.println("  |******************************************************* WELCOME TO ODA-APP (ONLINE DOCTOR APPOINTMENT APP)  *************************************************************|");
+		System.out.println("  						-------------------------------------------------------------------------");
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		while(true)
 		{
