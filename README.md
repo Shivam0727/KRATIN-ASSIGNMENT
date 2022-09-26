@@ -108,8 +108,6 @@ Database is Updated Successfully After Entering Details .
  Step-4 : Now If I Want To Know More About The Doctors Which Is Available , So I Click 3 :
  
  
- 
- 
  ![_04_1_Get Details OF All Available Doctors](https://user-images.githubusercontent.com/108928939/192265928-e9aea918-ad25-4451-a952-59da592ab850.png)
 
 ![_04_2_Get Details OF All Available Doctors](https://user-images.githubusercontent.com/108928939/192265943-2e3cb429-9c52-4567-98a7-63d60d6b773e.png)
