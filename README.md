@@ -49,7 +49,7 @@ Our project Online Doctor Appointment system includes registration of User, stor
 # Process :
 
 
-Before Run This Project  , You Need To Do Some Modifications In This Code Before Running This Project . The Changes Are in  Connection_generator.java File :
+Before Run This Project  , You Need To Do Some Modifications In This Code Before Running This Project . The Changes Are in  "Connection_generator.java"  File :
 
 
 1st Change : First of all Create a Database name as "Kratin_Project" in your MySql Command Line Client . If You want to give any different name then that also possible but for that do some changes in Url and put your database name in the url where Kratin_Project is present .
