@@ -49,6 +49,40 @@ Our project Online Doctor Appointment system includes registration of User, stor
 # Process :
 
 
+Before Run This Project  , You Need To Do Some Modifications In This Code Before Running This Project . The Changes Are in  Connection_generator.java File :
+
+
+1st Change : First of all Create a Database name as "Kratin_Project" in your MySql Command Line Client . If You want to give any different name then that also possible but for that do some changes in Url and put your database name in the url where Kratin_Project is present .
+
+In Url , 
+       String url= "jdbc:mysql://localhost:3306/Kratin_Project?autoReconnect=true&useSSL=false";
+                                                --------------   
+                                                     |
+                                                     V
+       String url= "jdbc:mysql://localhost:3306/YourDatabaseName?autoReconnect=true&useSSL=false";
+                                                ----------------
+       
+       
+ 2nd Change : You Need To Change given Username in code To Your MySql Username 
+   
+         String username= "root";
+                          -------
+                              |
+                              V
+         String username= "YourUserName";
+                           -------------
+                           
+                           
+ 3rd Change : You Need To Change given Password in coe To Your MySql Password
+ 
+        String password= "Shivam@07122000";
+                          ---------------
+                               |
+                               V
+        String password= "YourMySqlPassword";                             
+                          -----------------
+
+
 
 Database Before Process Begins :
 
